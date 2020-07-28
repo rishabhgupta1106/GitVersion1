@@ -5,7 +5,7 @@ public class Test {
 		String mes = "Testing Git";
 
 		if (mes == "Testing Git") {
-			System.out.print("Success &&&&");
+			System.out.print("Success &&&&S");
 		}
 
 	}
